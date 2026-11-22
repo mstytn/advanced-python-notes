@@ -2,6 +2,9 @@
     "md-lint.config": {
         "MD041": false,
         "MD013": false,
-        
-    }
+
+    },
+    "cSpell.words": [
+        "isinstance"
+    ],
 }
