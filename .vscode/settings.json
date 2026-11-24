@@ -1,11 +1,11 @@
 {
-    "md-lint.config": {
-        "MD041": false,
-        "MD013": false,
-
-    },
+    "md-lint.enable": false,
     "cSpell.words": [
         "dataclass",
-        "isinstance"
+        "getsizeof",
+        "isinstance",
+        "Soléa"
     ],
+    "cSpell.language": "en, tr",
+    "cSpell.enabled": false
 }
